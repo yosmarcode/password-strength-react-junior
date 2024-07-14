@@ -80,7 +80,7 @@ const FormLogin = () => {
 
   return (
     <div>
-      {JSON.stringify(isViewPassword)}
+   
       <Stack direction="vertical" gap={2} className="my-3">
         <input
           type="email"
